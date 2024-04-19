@@ -6,7 +6,5 @@ import com.empresa.entity.Modalidad;
 
 public interface ModalidadRepository extends JpaRepository<Modalidad, Integer>{
 	
-	
-	
 
 }
